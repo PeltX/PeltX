@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=white">
 
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="C:\Users\Sim\Desktop\사진\Kita.webp" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Kita"></img><br/>
