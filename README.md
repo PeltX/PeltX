@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=white">
 
-<img src="./IMG/kita.jpg", height="100x", width="100px">
+<img src="PeltX/IMG/kita.jpg", height="100x", width="100px">
